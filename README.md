@@ -1,3 +1,4 @@
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)](https://bhagyeshkhalode.github.io/)
 <h1 align="center">Hi 👋, I'm Bhagyesh Khalode</h1>
 <h3 align="center">Aspiring Full Stack Web Developer, Looking for an opportunity to enhance Knowledge & Skills</h3>
 
